@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The HDF Group
 Experimenting with public pages - future home of The HDF Group's site.
 ## Submit and Review Proposals
