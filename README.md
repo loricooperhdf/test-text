@@ -1,4 +1,4 @@
-# test-text
-Experimenting with public pages
-# This is a headline
-This is where we fill in the content. Would this be a workable situation for sharing RFCs and proposals for community involvemnet? 
+# The HDF Grou
+Experimenting with public pages - future home of The HDF Group's site.
+# # Submit and Review Proposals
+HDF Community Members can share and review proposals for changes to the file format. 
